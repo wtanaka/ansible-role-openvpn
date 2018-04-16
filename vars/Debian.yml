@@ -1,2 +1,3 @@
 ---
-package_name: network-manager-openvpn
+package_names:
+- network-manager-openvpn
